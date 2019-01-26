@@ -1,9 +1,9 @@
 <?php
 
     if(isset($_POST['roll'])){
-        $rand = rand(1, 6);
+        $rand = rand(1, 6); //getrandmax(); function is used to get maximum value of randon number.
 
-        echo 'You rolled a '.$rand;
+        echo 'You rolled a '.$rand; 
 
     }
 
