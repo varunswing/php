@@ -1,6 +1,6 @@
 <?php
 
-    require 'conf.php';
+    require 'ip-address.php';
 
     foreach($ip_blocked as $ip){
         if($ip==$ip_address){
