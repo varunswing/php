@@ -1,0 +1,2 @@
+$_SERVER['SCRIPT_NAME'] is used to give url of the user.
+$_SERVER['HTTP_HOST'] is used to give host name of the user.
